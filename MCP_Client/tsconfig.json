@@ -8,8 +8,10 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "removeComments": true
   },
-  "include": ["index.ts"],
+  "include": ["main.ts"],
   "exclude": ["node_modules"]
 }

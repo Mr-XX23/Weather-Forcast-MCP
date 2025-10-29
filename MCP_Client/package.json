@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "start" : "node build/main.js D:/Agent Ai/mcp/MCP_Clientbuild/main.js"
   },
   "keywords": [],
   "author": "",

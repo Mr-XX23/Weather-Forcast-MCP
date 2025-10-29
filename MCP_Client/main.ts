@@ -1,5 +1,5 @@
 
-import { MCPClient } from "./index.js";
+import { MCPClient } from "./services.js";
 
 class Main {
 
